@@ -2,5 +2,5 @@
 layout: slide
 title: "Welome to our second slide!"
 ---
-Your text
+sohoney's text
 Use the left arrow to go back!
